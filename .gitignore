@@ -75,3 +75,6 @@ out/
 ### VS Code ###
 .vscode/
 
+### obsidian ###
+.obsidian
+
